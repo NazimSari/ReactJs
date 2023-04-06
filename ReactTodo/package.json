@@ -1,0 +1,10 @@
+{
+  "name": "ReactTodo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
